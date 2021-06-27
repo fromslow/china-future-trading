@@ -26,12 +26,10 @@
 <br/>
 <br/>
   
-- Group 1(구리, 알루미늄, 철근, 아연)의 충격반응함수 
-![image](https://user-images.githubusercontent.com/65265790/123547652-920b0d80-d79c-11eb-94d6-f16227588631.png)  
+- Group 1(구리, 알루미늄, 철근, 아연)의 충격반응함수 ![image](https://user-images.githubusercontent.com/65265790/123547652-920b0d80-d79c-11eb-94d6-f16227588631.png)  
 <br/>
  
-- Group 2(대두박, 채종박, 대두2호)의 충격반응함수
-![image](https://user-images.githubusercontent.com/65265790/123547650-90414a00-d79c-11eb-924f-1833da46fa94.png)  
+- Group 2(대두박, 채종박, 대두2호)의 충격반응함수 ![image](https://user-images.githubusercontent.com/65265790/123547650-90414a00-d79c-11eb-924f-1833da46fa94.png)  
 <br/>
 <br/>
  
